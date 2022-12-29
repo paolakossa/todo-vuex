@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkaprendendo_vuex"]=self["webpackChunkaprendendo_vuex"]||[]).push([[750],{7750:function(n,e,u){u.r(e),u.d(e,{default:function(){return i}});var t=function(){var n=this;n._self._c;return n._m(0)},s=[function(){var n=this,e=n._self._c;return e("div",{staticClass:"about"},[e("h1",[n._v("This is an about page")])])}],a=u(1001),r={},l=(0,a.Z)(r,t,s,!1,null,null,null),i=l.exports}}]);
+//# sourceMappingURL=750.282ea355.js.map
